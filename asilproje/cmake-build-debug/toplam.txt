@@ -1,0 +1,21 @@
+|oyuncu ismi|	 |oynanan mac|	 |hatali pas| 	 |dogru pas|
+Hakan Şükür			 33				 151			 95
+Mehmet Yılmaz			 34				 207			 109
+Ümit Karan			 34				 174			 101
+Hasan Şaş			 34				 207			 114
+Okan Buruk			 34				 171			 99
+Emre Belözoğlu			 34				 184			 111
+Arda Turan			 34				 181			 115
+Ali Gültiken			 34				 180			 96
+Tuncay Şanlı			 34				 201			 117
+Sergen Yalçın			 34				 202			 97
+Fatih Terim			 34				 179			 101
+Bülent Korkmaz			 34				 177			 118
+Volkan Demirel			 34				 211			 83
+Rıdvan Dilmen			 34				 210			 107
+Murat Boz			 34				 189			 105
+Gökhan Zan			 34				 186			 106
+İsmail Köybaşı			 34				 205			 105
+Selçuk İnan			 34				 165			 111
+Cengiz Ünder			 34				 186			 99
+Burak Yılmaz			 34				 186			 102

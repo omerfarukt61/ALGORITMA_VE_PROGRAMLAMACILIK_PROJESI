@@ -1,0 +1,3 @@
+C:/Users/beyza/CLionProjects/asilproje/cmake-build-debug/CMakeFiles/asilproje.dir
+C:/Users/beyza/CLionProjects/asilproje/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/beyza/CLionProjects/asilproje/cmake-build-debug/CMakeFiles/rebuild_cache.dir
